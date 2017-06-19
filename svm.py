@@ -62,4 +62,4 @@ for i in range(10):
 
 
 print("Average accuracy overall is ", np.average(svm))
-print("Average accuracy BER is ", np.average(svmb))
+print("Average BER is ", np.average(svmb))
